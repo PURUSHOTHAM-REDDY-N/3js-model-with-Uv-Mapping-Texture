@@ -1,0 +1,9 @@
+things  needed 
+
+a modal contains nodes and materials
+1.nodes which are used to create meshes 
+2.materials which are used to change color or add image to a particular mesh
+
+3.will need a initial snapshot of the modal like colors and inages 
+
+later we will change this snapshot and create a product with this snap shot
